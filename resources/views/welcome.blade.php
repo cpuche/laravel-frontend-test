@@ -121,7 +121,7 @@
                             </a>
                         </div>
                     </div>
-                    <div>Modificando git desde webhook 2</div>
+                    <div>Modificando git desde webhook 3</div>
                     <div class="ml-4 text-center text-sm text-gray-500 sm:text-right sm:ml-0">
                         Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
                     </div>
